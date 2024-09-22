@@ -1,7 +1,7 @@
-# DriverSub-SVM
+# DriverCls-SVM
 DriverSub-SVM is a model, which innovatively integrates patient-specific and global driver genes with the OAO-MSVM algorithm.The aim is to enhance the accuracy and specificity of cancer subtype classification, thereby opening promising avenues for the advancement of personalized cancer medicine. 
 
-The application of DriverSub-SVM primarily occurs within the Python environment. Meanwhile, the code for KEGG pathway analysis is executed in the R environment.
+The application of DriverCls-SVM primarily occurs within the Python environment. Meanwhile, the code for KEGG pathway analysis is executed in the R environment.
 Install the DriverSub-SVM requied:
 
 1.Initially, the data obtained is preprocessed using the code provided in the DataCode directory. 
